@@ -1,0 +1,455 @@
+{
+   "dataLink": [
+      {
+         "source": 0,
+         "target": 1,
+         "value": "提升"
+      },
+      {
+         "source": 0,
+         "target": 2,
+         "value": "梳理"
+      },
+      {
+         "source": 0,
+         "target": 3,
+         "value": "加大"
+      },
+      {
+         "source": 0,
+         "target": 4,
+         "value": "实现"
+      },
+      {
+         "source": 0,
+         "target": 5,
+         "value": "决定"
+      },
+      {
+         "source": 6,
+         "target": 7,
+         "value": "成"
+      },
+      {
+         "source": 6,
+         "target": 7,
+         "value": "成"
+      },
+      {
+         "source": 8,
+         "target": 9,
+         "value": "确保"
+      },
+      {
+         "source": 10,
+         "target": 11,
+         "value": "标"
+      },
+      {
+         "source": 12,
+         "target": 13,
+         "value": "要求"
+      },
+      {
+         "source": 14,
+         "target": 15,
+         "value": "有"
+      },
+      {
+         "source": 16,
+         "target": 17,
+         "value": "是"
+      },
+      {
+         "source": 0,
+         "target": 18,
+         "value": "自找"
+      },
+      {
+         "source": 19,
+         "target": 18,
+         "value": "自找"
+      },
+      {
+         "source": 20,
+         "target": 21,
+         "value": "是"
+      },
+      {
+         "source": 22,
+         "target": 23,
+         "value": "得到"
+      },
+      {
+         "source": 13,
+         "target": 24,
+         "value": "怕"
+      },
+      {
+         "source": 25,
+         "target": 26,
+         "value": "完成"
+      },
+      {
+         "source": 27,
+         "target": 28,
+         "value": "用"
+      },
+      {
+         "source": 27,
+         "target": 29,
+         "value": "相信"
+      },
+      {
+         "source": 30,
+         "target": 31,
+         "value": "推广"
+      },
+      {
+         "source": 32,
+         "target": 33,
+         "value": "推进"
+      },
+      {
+         "source": 32,
+         "target": 33,
+         "value": "完成"
+      },
+      {
+         "source": 32,
+         "target": 34,
+         "value": "收到"
+      },
+      {
+         "source": 32,
+         "target": 35,
+         "value": "推广"
+      }
+   ],
+   "dataRel": [
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "他",
+         "number": 0,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "教学水平与效果",
+         "number": 1,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "课程体系",
+         "number": 2,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "实验题目设计与实现难度",
+         "number": 3,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "难度",
+         "number": 4,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "重建实验体系",
+         "number": 5,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "课程内容",
+         "number": 6,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "体系",
+         "number": 7,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "整体实验任务",
+         "number": 8,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "23以上学生完成",
+         "number": 9,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "对",
+         "number": 10,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "国际一流大学",
+         "number": 11,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "林友芳",
+         "number": 12,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "学生",
+         "number": 13,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "要求程序设计作业",
+         "number": 14,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "截止时间",
+         "number": 15,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "起来",
+         "number": 16,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "他进一步自找麻烦开始",
+         "number": 17,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "麻烦",
+         "number": 18,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "“",
+         "number": 19,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "令备感欣慰",
+         "number": 20,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "设计能力得到提升",
+         "number": 21,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "设计能力",
+         "number": 22,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "提升",
+         "number": 23,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "写大程序",
+         "number": 24,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "有些大一学生",
+         "number": 25,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "近万行代码量",
+         "number": 26,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "许多学生",
+         "number": 27,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "不可思议",
+         "number": 28,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "来表达自己收获",
+         "number": 29,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "这套教学模式",
+         "number": 30,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "整个年级",
+         "number": 31,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "后来被委派到数据库系统原理课程组他",
+         "number": 32,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "课程内容与实验体系重建工作",
+         "number": 33,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "很好效果",
+         "number": 34,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      },
+      {
+         "category": 0,
+         "draggable": "true",
+         "name": "成果",
+         "number": 35,
+         "showNum": 25,
+         "symbolSize": 80,
+         "value": 40
+      }
+   ]
+}
